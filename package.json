@@ -8,5 +8,7 @@
   },
   "devDependencies": {
     "vitest": "^2.0.0"
-  }
+  },
+  "author": "Tjakoen Stolk",
+  "license": "MIT"
 }
