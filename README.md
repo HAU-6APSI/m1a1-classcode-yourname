@@ -1,4 +1,4 @@
-# Module 1 – Activity 1 – Hello World
+# Module 1 - Activity 1 - Hello World
 
 [![Made with Claude](https://img.shields.io/badge/Made_with-Claude-D97757?logo=anthropic&logoColor=white)](https://tjakoen.github.io/notes/ten-times-zero)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
